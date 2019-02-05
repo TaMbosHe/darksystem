@@ -140,8 +140,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/69E8ka:
+         :hearts: الموقع الرسمي للبوت https://discord.gg/69E8ka: website here  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -152,8 +152,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/69E8ka :scroll:
+         :hearts: الموقع الرسمي للبوت https://discord.gg/69E8ka: website here  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -164,8 +164,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/69E8ka :scroll:
+         :hearts: الموقع الرسمي للبوت https://discord.gg/69E8ka: website here  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -176,8 +176,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/69E8ka :scroll:
+         :hearts: الموقع الرسمي للبوت https://discord.gg/69E8ka: website here  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -188,8 +188,8 @@ client.on('message', message => {
      const embed = new Discord.RichEmbed() 
          .setThumbnail(message.author.avatarURL)
          .setColor("#00FF00")
-         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/TZ3dcyC :scroll:
-         :hearts: الموقع الرسمي للبوت https://aboodealnaimat.wixsite.com/superbot: website here  :hearts: **`)
+         .setDescription(`**  السيرفر الرسمي للبوت :  :dove:  https://discord.gg/69E8ka :scroll:
+         :hearts: الموقع الرسمي للبوت https://discord.gg/69E8ka: website here  :hearts: **`)
    message.author.sendEmbed(embed)
    
    }
@@ -401,7 +401,7 @@ client.on('message', message => {
       if (message.content === ".help-a") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
+           .setFooter('By *! ♛𝑻𝑹𝒁 | "♕SuPerB💎Y♕"#0706  ')
            .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
@@ -413,7 +413,7 @@ client.on('message', message => {
       if (message.content === ".help-g") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
+           .setFooter('By *! ♛𝑻𝑹𝒁 | "♕SuPerB💎Y♕"#0706  ')
            .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
@@ -425,7 +425,7 @@ client.on('message', message => {
       if (message.content === ".help-m") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
+           .setFooter('By *! ♛𝑻𝑹𝒁 | "♕SuPerB💎Y♕"#0706  ')
            .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
@@ -437,7 +437,7 @@ client.on('message', message => {
       if (message.content === ".help-p") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By *LEGEND_YT#4537  ')
+           .setFooter('By *! ♛𝑻𝑹𝒁 | "♕SuPerB💎Y♕"#0706  ')
            .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس:revolving_hearts: __**`)
      message.author.sendEmbed(embed)
      
@@ -454,7 +454,7 @@ client.on('message', message => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/oauth2/authorize?client_id=466256531998900246&permissions=8&scope=bot')
+  .setURL('https://discord.gg/V65ze3')
  .setDescription(`**اذا كنت تريد الاوامر العامة اظغط الريكشن** 🌏 \n**اذا كنت تريد الاوامر الادارية اظغط الريكشن**🔧 \n**اذا كنت تريد اوامر الالعاب**🎲 \n**اذا كنت تريد اوامر الاغاني **🎶\n              **وشكرا لمستخدمين البوت**`)  
  
  .setTimestamp()
@@ -493,7 +493,7 @@ mm.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/oauth2/authorize?client_id=466256531998900246&permissions=8&scope=bot')
+  .setURL('https://discord.gg/V65ze3')
 .setDescription(`        ***__الاوامر الاداريه__*** **\n${prefix}**move @user /  لسحب الشخص الى روومك』**\n${prefix}**bc / رسالة جماعية الى كل اعضاء السيرفر』**\n${prefix}**role @user <rank> / لأعطاء رتبة لعضو معين』**\n${prefix}**roleremove @user <rank> / لازالة الرتبة من شخص معين』**\n${prefix}**role all <rank> / لأعطاء رتبة للجميع』**\n${prefix}**role humans <rank> / لأعطاء رتبة للاشخاص فقط』**\n${prefix}**role bots <rank> / لأعطاء رتبة لجميع البوتات』**\n${prefix}**hchannel / اخفاء الشات』**\n${prefix}**schannel / اضهار الشات المخفية』**\n${prefix}**clr <numbr> / مسح الشات بعدد』**\n${prefix}**clear / مسح الشات』**\n${prefix}**mute @user <reason> / اعطاء العضو ميوت لازم رتبة <Muted>』**\n${prefix}**unmute @user / لفك الميوت عن الشخص 』**\n${prefix}**kick @user <reason> / طرد الشخص من السيرفر』**\n${prefix}**ban @user <reason> / حضر الشخص من السيرفر』**\n${prefix}**mutechannel / تقفيل الشات』**\n${prefix}**unmutechannel / فتح الشات』**\n${prefix}**dc / مسح كل الرومات』**\n${prefix}**dr / <مسح كل الرانكات <لازم تكون رانك البوت فوق كل الرانكات』**\n${prefix}**ct <name> / انشاء شات』**\n${prefix}**cv <name> / انشاء رووم فويس』**\n${prefix}**delet <name> / مسح الشات او الرووم فويس』**\n${prefix}**ccolors <number> / ينشا لك الوان مع كم الوان تبي』`)  
  
 .setTimestamp()
@@ -506,7 +506,7 @@ cc.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/oauth2/authorize?client_id=466256531998900246&permissions=8&scope=bot')
+  .setURL('https://discord.gg/V65ze3')
 .setDescription(`        ***__اوامر اغاني__*** **\n${prefix}**play / لتشغيل أغنية برآبط أو بأسم』**\n${prefix}**skip / لتجآوز الأغنية الحآلية』**\n${prefix}**pause / إيقآف الأغنية مؤقتا』**\n${prefix}**resume / لموآصلة الإغنية بعد إيقآفهآ مؤقتا』**\n${prefix}**vol / لتغيير درجة الصوت 100 - 0』**\n**.stop / لإخرآج البوت من الروم』**\n${prefix}**np / لمعرفة الأغنية المشغلة حآليا』**\n**.queue / لمعرفة قآئمة التشغيل』`)
  
  
@@ -520,7 +520,7 @@ vv.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/oauth2/authorize?client_id=466256531998900246&permissions=8&scope=bot')
+  .setURL('https://discord.gg/V65ze3')
 .setDescription(`   ***__اوامر العاب__*** **\n${prefix}**rps / حجر ورقة مقص**\n${prefix}**speed / اسرع كتابة』**\n${prefix}**quas / اسئلة عامة』**\n${prefix}**نكت / نكت 』**\n${prefix}**لعبة فكك / فكك』**\n${prefix}**عواصم عشوائي/عواصم』**\n${prefix}**لعبة كت تويت / كت تويت』**\n${prefix}**roll <number> / قرعة』**\n${prefix}**لو خيروك بطريقة حلوة / لو خيروك』**\n${prefix}**لعبة مريم / مريم』**\n${prefix}**فوائد ونصائح  / هل تعلم』**\n${prefix}**يعطيك عقابات قاسية / عقاب 』`)
  
  
